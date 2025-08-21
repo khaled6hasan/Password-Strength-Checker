@@ -38,7 +38,8 @@ python password_checker.py
 
 ## ▶️ Example Output
 
-![passwordcheck1](https://github.com/khaled6hasan/Password-Strength-Checker/blob/main/passwordcheck1.PNG)       ![passwordcheck2](https://github.com/khaled6hasan/Password-Strength-Checker/blob/main/passwordcheck2.PNG)
+![passwordcheck1](https://github.com/khaled6hasan/Password-Strength-Checker/blob/main/passwordcheck1.PNG)       
+![passwordcheck2](https://github.com/khaled6hasan/Password-Strength-Checker/blob/main/passwordcheck2.PNG)
 
 
 ---
